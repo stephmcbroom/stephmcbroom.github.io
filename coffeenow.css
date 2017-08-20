@@ -1,0 +1,53 @@
+body {
+  background-color: tan;
+  width: 800px;
+  font-family: arial;
+  padding-left: 400px;
+  padding-right: 400px;
+border-width:100px;
+border-color: black;
+}
+
+h1 {
+  font-family: Arial;
+  font-weight: bolder;
+  border-style: dashed;
+  border-color: black
+  text-align:center;
+}
+
+h3{
+  color: Green;
+  border-style: dashed;
+  border-color: black;
+  text-align: center;
+}
+header {
+  font-size: 34px;
+  text-align: center;
+  color: green;
+  border-color: black;
+}
+
+img{
+  width: 400px;
+  border-style: double;
+  border-width: thick;
+  align-items: center;
+}
+h2{
+  color:green;
+  border-style: dashed;
+  border-color: black
+}
+
+cn19{
+  font-size: 35px;
+color: black;
+
+}
+
+  cn20{
+    text-align: left;
+    color: black;
+  }
